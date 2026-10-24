@@ -1,0 +1,20 @@
+{
+    "debian": {
+        "image": "debian:bookworm",
+        "features": {
+            "./glab": {}
+        }
+    },
+    "fedora": {
+        "image": "fedora:latest",
+        "features": {
+            "./glab": {}
+        }
+    },
+    "alpine": {
+        "image": "mcr.microsoft.com/devcontainers/base:alpine",
+        "features": {
+            "./glab": {}
+        }
+    }
+}

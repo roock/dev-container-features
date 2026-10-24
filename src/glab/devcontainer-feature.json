@@ -1,0 +1,6 @@
+{
+    "id": "glab",
+    "version": "1.0.0",
+    "name": "GitLab CLI",
+    "description": "Installs the latest glab release using Debian or RPM packages, with a standalone binary fallback."
+}
